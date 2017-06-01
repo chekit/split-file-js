@@ -17,9 +17,9 @@ describe('Fetch data function', function () {
 		const comment = 'body';
 		const issue = `<!--{BODY}--><p>Hello, <strong>world</strong></p><!--{/BODY}-->`;
 
-		let actual = '<!--{BODY}--><p>Hello, <strong>world</strong></p>';
-		let expected = fectchData(issue, comment);
+		let expected = '<!--{BODY}--><p>Hello, <strong>world</strong></p>';
+		let actual = fectchData(issue, comment);
 
-		expect(expected).to.equal(actual);
+		expect(actual).to.equal(expected);
 	})
 })
