@@ -1,3 +1,5 @@
+![split-file-js](https://github.com/chekit/split-file-js/blob/master/scissors.png?raw=true)
+
 Скрипт использовался на проекте для создания небольших landing-pages.
 
 В результате сборки проекта получались наборы страниц и файлов, которые именовались по шаблону: 
