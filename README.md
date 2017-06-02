@@ -1,3 +1,5 @@
+# split-file-js
+
 ![split-file-js](https://github.com/chekit/split-file-js/blob/master/scissors.png?raw=true)
 
 Скрипт использовался на проекте для создания небольших landing-pages.
